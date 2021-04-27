@@ -1,0 +1,9 @@
+#include<stdio.h>
+main()
+{
+printf("5x1=5\n");
+printf("5x2=10\n");
+printf("5x3=15\n");
+printf("5x4=20\n");
+printf("5x5=25\n");
+}
