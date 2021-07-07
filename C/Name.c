@@ -1,5 +1,6 @@
 #include<stdio.h>
-main()
+int main()
 {
 	printf("Himanshu Kumar!");
+    return 0; 
 }
